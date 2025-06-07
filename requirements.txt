@@ -1,0 +1,8 @@
+streamlit==1.35.0
+torch
+torchaudio
+librosa
+numpy
+soundfile
+streamlit-webrtc
+sounddevice
